@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-nest",
-  "description": "Nest plugin for homebridge",
+  "name": "homebridge-nest-cong",
+  "description": "Nest plugin for homebridge, revised by Cong",
   "version": "1.1.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kraigm/homebridge-nest.git"
+    "url": "git://github.com/congsun/homebridge-nest.git"
   },
   "license": "ISC",
   "preferGlobal": true,
